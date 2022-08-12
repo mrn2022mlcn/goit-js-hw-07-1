@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Документы\\GitHub\\js-06\\goit-js-hw-07"
+		},
+		{
+			"path": "..\\css"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "goit-js-hw-07"
+	}
+}
